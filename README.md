@@ -8,5 +8,3 @@ Anonymized credit card transactions labeled as fraudulent or genuine
 ## Objectives
 ...
 
-## References
-- [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
